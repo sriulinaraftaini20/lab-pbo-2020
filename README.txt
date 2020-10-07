@@ -1,2 +1,2 @@
-Nama : Sri Ulina Raftaini
-Nim : 1908107010012
+Sri Ulina Raftaini
+1908107010012
