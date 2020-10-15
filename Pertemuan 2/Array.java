@@ -1,3 +1,5 @@
+
+//belajar prak sama bang Ridha
 import java.util.Scanner;
 
 class Array{
